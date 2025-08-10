@@ -1,0 +1,7 @@
+openai
+streamlit
+speechrecognition
+textblob
+pyttsx3
+streamlit-webrtc
+av
