@@ -2,4 +2,4 @@ openai
 streamlit
 PyMuPDF
 spacy
-sentence_transformers
+sentence-transformers
