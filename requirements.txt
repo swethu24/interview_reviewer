@@ -1,9 +1,5 @@
 openai
 streamlit
-speechrecognition
-textblob
-pyttsx3
-streamlit-webrtc
-av
 PyMuPDF
 spacy
+sentence_transformers
