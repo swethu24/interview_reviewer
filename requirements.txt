@@ -6,3 +6,4 @@ pyttsx3
 streamlit-webrtc
 av
 PyMuPDF
+spacy
